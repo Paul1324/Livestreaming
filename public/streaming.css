@@ -1,0 +1,119 @@
+.streaming-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #012a4a;
+}
+.streaming-text {
+  font-size: 24px;
+  margin-top: var(--dl-space-space-fourunits);
+  font-family: Verdana;
+  color:rgb(255, 255, 255)
+}
+.streaming-video {
+  width: 916px;
+  height: 497px;
+  background-color: black;
+}
+.streaming-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.streaming-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.streaming-container06 {
+  flex: 0 0 auto;
+  width: 243px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left:25px;
+}
+.streaming-text1 {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+.streaming-image {
+  width: 243px;
+  height: 195px;
+  object-fit: cover;
+}
+.streaming-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.streaming-container4 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.streaming-button {
+  color: rgb(255, 255, 255);
+  font-family: Verdana;
+  background-color: rgb(1, 73, 124);
+}
+.streaming-container5 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.streaming-container6 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.streaming-button1 {
+  color: rgb(255, 255, 255);
+  font-family: Verdana;
+  background-color: rgb(1, 73, 124);
+}
+.streaming-button2 {
+  color: rgb(255, 255, 255);
+  font-family: Verdana;
+  background-color: rgb(1, 73, 124);
+}
+.streaming-container7 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.streaming-container8 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
